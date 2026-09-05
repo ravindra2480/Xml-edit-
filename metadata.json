@@ -1,0 +1,6 @@
+{
+  "name": "XML",
+  "description": "Professional AI-first cinematic video editor with multi-track timeline, AI auto-cuts, smart captions, and cinematic effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
